@@ -10,7 +10,8 @@ const Heder = () => {
           <div className='ml-8 py-6'>
             <img src={logo} />
           </div>
-          <div className='flex px-8 gap-8 py-8'>
+          <div className='max-w-container mx-auto'>
+          <div className='flex px-8 gap-8 py-8 '>
             <div className='flex'>
               <p className='text-comon text-base font-normal font-inter'>Product</p>
               <FaAngleDown className='mt-3 ml-3' />
@@ -39,9 +40,10 @@ const Heder = () => {
 
 
           </div>
+          </div>
         </div>
 
-        <div className='w-2/4 flex justify-end '>
+        <div className='w-2/4 flex justify-end'>
          <div className='w-1/3 py-8'>
          <div className=' flex  '>
             <div className='flex '>
@@ -63,7 +65,7 @@ const Heder = () => {
 
          </div>
 
-         <div className='w-[250px] flex py-5   '>
+         <div className='w-[350px] flex justify-start py-5   '>
            
          <p className='text-[#FFF]  text-base font-normal font-inter rounded-3xl  py-4 px-6 bg-[#4262FF] '>Sign up free →</p>
          

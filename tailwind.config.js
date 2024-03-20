@@ -15,6 +15,7 @@ export default {
       },
       colors: {
         'comon': '#050038',
+        'rgba': 'rgba(5, 0, 56, 0.40);'
       },
     },
   },
