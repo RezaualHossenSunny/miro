@@ -48,8 +48,8 @@ const Baner = () => {
                 </div>
 
             </div>
-            <div className='w-2/4'>
-              <img className='w-[640px]' src={baner}/>
+            <div className='w-2/4 bg-baner bg-cover bg-no-repeat bg-center'>
+              {/* <img className='w-full' src={baner}/> */}
             </div>
         </div>
     </>

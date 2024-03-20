@@ -17,6 +17,10 @@ export default {
         'comon': '#050038',
         'rgba': 'rgba(5, 0, 56, 0.40);'
       },
+      backgroundImage: {
+        'baner': "url('./src/assets/baner.png')",
+        
+      }
     },
   },
   plugins: [],
