@@ -3,6 +3,7 @@ import { Built } from "./Component/Built "
 import Collaborate from "./Component/Collaborate"
 import Connect from "./Component/Connect "
 import Heder from "./Component/Heder"
+import Teams from "./Component/Teams"
 import User from "./Component/User"
 import Ways from "./Component/Ways"
 import Work from "./Component/Work"
@@ -20,6 +21,7 @@ function App() {
     <Connect/>
     <Ways/>
     <Built/>
+    <Teams/>
     </>
   )
 }
