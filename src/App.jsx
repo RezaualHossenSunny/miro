@@ -2,6 +2,7 @@ import Baner from "./Component/Baner"
 import { Built } from "./Component/Built "
 import Collaborate from "./Component/Collaborate"
 import Connect from "./Component/Connect "
+import Customer from "./Component/Customer"
 import Heder from "./Component/Heder"
 import Teams from "./Component/Teams"
 import User from "./Component/User"
@@ -22,6 +23,7 @@ function App() {
     <Ways/>
     <Built/>
     <Teams/>
+    <Customer/>
     </>
   )
 }
