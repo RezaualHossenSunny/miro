@@ -8,7 +8,7 @@ const User = () => {
     <div>
         <div className='max-w-container mx-auto py-32'>
         <p className='font-inter text-rgba text-center  font-semibold  text-lg'>Trusted by 45M+ users</p>
-        <div  className='flex justify-between mt-32'>
+        <div  className='flex justify-between mt-28'>
          <img src={user} />
          <img src={user1} />
          <img src={user2} />
