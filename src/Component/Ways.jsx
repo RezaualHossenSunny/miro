@@ -12,7 +12,7 @@ const Ways = () => {
 
                   
            
-         <p className='text-[#FFF] w-[164px] mx-auto mt-4 text-base font-normal font-inter rounded-3xl  py-4 px-6 bg-[#4262FF] '>Sign up free →</p>
+         <p className='text-[#FFF] w-[200px] mx-auto mt-2 text-base font-normal font-inter rounded-3xl  py-4 px-6 bg-[#4262FF] '>View the report →</p>
          
 
         

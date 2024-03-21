@@ -1,4 +1,5 @@
 import Baner from "./Component/Baner"
+import { Built } from "./Component/Built "
 import Collaborate from "./Component/Collaborate"
 import Connect from "./Component/Connect "
 import Heder from "./Component/Heder"
@@ -18,6 +19,7 @@ function App() {
     <Work/>
     <Connect/>
     <Ways/>
+    <Built/>
     </>
   )
 }

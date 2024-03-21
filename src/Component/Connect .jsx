@@ -13,16 +13,16 @@ const Connect = () => {
                     <h1 className='font-inter text-comon font-bold text-5xl w-[345px]'>Connect
                         your tools,
                         close your tabs</h1>
-                    <p className='mt-8 text-second font-inter text-lg'>
+                        <p className='mt-8 text-second font-inter text-lg'>
                         Whether you want to edit your Google Docs, resolve Jira issues, or collaborate over Zoom, Miro has 100+ integrations with tools you already use and love.
-                    </p>
+                        </p>
 
 
-                    <p className='mt-10 font-normal text-lg font-inter text-[#4262FF] flex gap-4'>
-                        Learn more
-                        <FaArrowRight className='mt-1 text-lg' />
-                    </p>
-                    <p className='w-[100px] h-[1px] bg-[#4262FF] '></p>
+                        <p  className='mt-10 font-normal text-lg font-inter text-[#4262FF] flex gap-4'>
+            Learn more
+            <FaArrowRight className='mt-1 text-lg' />
+            </p>
+            <p className='w-[100px] h-[1px] bg-[#4262FF] '></p>
                 </div>
 
             </div>
