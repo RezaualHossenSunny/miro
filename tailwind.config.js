@@ -20,7 +20,7 @@ export default {
       },
       backgroundImage: {
         'baner': "url('./src/assets/baner.png')",
-        // 'work':  "url('./src/assets/contacet.png')"
+        'section':  "url('./src/assets/section.png')"
         
       }
     },
