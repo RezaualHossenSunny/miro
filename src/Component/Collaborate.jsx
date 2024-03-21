@@ -23,10 +23,19 @@ const Collaborate = () => {
                 </div>
 
                 <div className='w-3/12'>
-                    <h2 className='font-inter text-comon font-bold  text-2xl'>Free forever</h2>
+                    <h2 className='font-inter text-comon font-bold  text-2xl'>Security first</h2>
                     <p className='mt-6 font-inter text-second text-lg text-semibold w-[313.559px] not-italic  leading-6'>Our free plan gives you unlimited team members, 3 boards, and 300+ expert-made templates. Signing up with your work email lets you bring in your team faster. See our  
                         <spam className='text-[#4262FF] leading-6'>pricing plans </spam>for more features.</p>
                 </div>
+                </div>
+
+                <div className='mx-auto w-[178px] mt-14 text-center'>
+          
+           
+                <p className='text-[#FFF]  text-base font-normal font-inter rounded-3xl  py-4 px-7 bg-[#4262FF] '>Sign up free →</p>
+           
+  
+           
                 </div>
 
             </div>
