@@ -22,6 +22,7 @@ export default {
         'baner': "url('./src/assets/baner.png')",
         'section':  "url('./src/assets/section.png')",
         'ways':  "url('./src/assets/ways.png')",
+        'fother':  "url('./src/assets/certo-dark-yellow.svg.png')",
         
         
       }
